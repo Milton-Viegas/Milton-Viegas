@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/Milton-Viegas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milton-Viegas&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Viegas&theme=blue-green&layout=compact &langs_count=20"/>                      
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Viegas&theme=blue-green&layout=compact&langs_count=20"/>                      
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Milton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
