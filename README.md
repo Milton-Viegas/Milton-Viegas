@@ -1,4 +1,4 @@
-## Olá! Eu sou o Milton Viegas - Dev. FullStack Trainee
+## Olá! Eu sou o Milton Viegas | Jr Full-stack Developer 👨‍💻
  <div>
   <a href="https://github.com/Milton-Viegas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milton-Viegas&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -24,7 +24,8 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/milton-viegas-849655b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <p><a href="https://www.linkedin.com/in/milton-viegas-849655b0" target="_blank">Visit W3Schools!</a></p>
+  <p><a href="https://www.linkedin.com/in/milton-viegas-849655b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
    <a href = "mailto:milton.viegas.br@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.youtube.com/channel/UCKObrMxF75V6bEbwO528DAQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/milton_viegas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
