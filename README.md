@@ -18,7 +18,7 @@
   <img align="center" alt="Milton-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" alt="Milton-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg">
  
-  <img align="right" alt="Milton-gif" height="120" width="150" src="https://tenor.com/view/hello-hey-hi-kitty-gif-12062520.gif">
+  <img align="right" alt="Milton-gif" height="120" width="150" src="https://tenor.com/b162C.gif">
 </div>
   
   ##
