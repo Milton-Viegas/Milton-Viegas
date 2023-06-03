@@ -1,4 +1,4 @@
-## Olá! Eu sou o Milton Viegas | Jr Full-stack Developer 👨‍💻
+## Hi! I'm Milton Viegas | Jr Java Developer Full-stack 👨‍💻
  <div>
   <a href="https://github.com/Milton-Viegas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milton-Viegas&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
