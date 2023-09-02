@@ -6,8 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Milton-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Milton-Oc" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-plain.svg">
-  <img align="center" alt="Milton-Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloud/cloud-original.svg">
+  <img align="center" alt="Milton-Oc" height="30" width="40" src="https://github.com/FayustovNA/devicon-master/blob/main/icons/oracle/oracle-original.svg">
   <img align="center" alt="Milton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Milton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Milton-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
